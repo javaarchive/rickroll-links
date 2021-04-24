@@ -6,3 +6,6 @@ Juicy rickroll links
 
 ## Dedicated Webpage/websites
 - [https://riverside.rocks/index.php](https://riverside.rocks/index.php) - it redirects you to the offical music video
+
+## Raw Video
+- [fwesh.yonle.repl.co/*](https://fwesh.yonle.repl.co) - It gives Rickroll raw video than redirect you to Youtube Video. Also works on discord or anywhere.
