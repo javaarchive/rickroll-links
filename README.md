@@ -11,6 +11,7 @@ Juicy rickroll links
 - [https://ftp.gameknight2k.com/](https://ftp.gameknight2k.com/) beautiful ftp panel and fast loading which I can't say about some other websites.
 - [http://free-downloads.glitch.me/](http://free-downloads.glitch.me/) you can specify some words by adding stuff after a # in the url to show up. This is ineffective without autoplay. 
 - [https://www.latlmes.com/](https://www.la1tmes.com/) Make your own breaking news url
+- [http://dis.gd/threads](http://dis.gd/threads) Discord made a feature called threads totally. 
 - [beta.battlecord.xyz](https://beta.battlecord.xyz) - Redirects you to the official ![](https://cdn.discordapp.com/emojis/769486756977967114.gif?v=1&size=32) Video
 ## Raw Video
 - [fwesh.yonle.repl.co/*](https://fwesh.yonle.repl.co) - It gives Rickroll raw video than redirect you to Youtube Video. Also works on discord or anywhere.
