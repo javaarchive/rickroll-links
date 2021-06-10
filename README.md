@@ -1,4 +1,4 @@
-# rickroll-links
+# Rickroll Links
 Juicy rickroll links
 
 ## URL Shortners
@@ -13,5 +13,6 @@ Juicy rickroll links
 - [https://www.latlmes.com/](https://www.la1tmes.com/) Make your own breaking news url
 - [http://dis.gd/threads](http://dis.gd/threads) Discord made a feature called threads totally. 
 - [beta.battlecord.xyz](https://beta.battlecord.xyz) - Redirects you to the official ![](https://cdn.discordapp.com/emojis/769486756977967114.gif?v=1&size=32) Video
+
 ## Raw Video
 - [fwesh.yonle.repl.co/*](https://fwesh.yonle.repl.co) - It gives Rickroll raw video than redirect you to Youtube Video. Also works on discord or anywhere.
