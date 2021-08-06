@@ -12,6 +12,7 @@ Juicy rickroll links
 - [http://free-downloads.glitch.me/](http://free-downloads.glitch.me/) - you can specify some words by adding stuff after a # in the url to show up. This is ineffective without autoplay. 
 - [http://dis.gd/threads](http://dis.gd/threads) - Discord made a feature called threads totally. 
 - [beta.battlecord.xyz](https://beta.battlecord.xyz) - Redirects you to the official ![](https://cdn.discordapp.com/emojis/769486756977967114.gif?v=1&size=32) Video
+- [free-discord-nitro.dheeraj2008.repl.co](https://free-discord-nitro.dheeraj2008.repl.co/) - Rickrolling by telling you have been gifted Discord Nitro
 
 ## Raw Video
 - [fwesh.yonle.repl.co/*](https://fwesh.yonle.repl.co) - It gives Rickroll raw video than redirect you to Youtube Video. Also works on discord or anywhere.
