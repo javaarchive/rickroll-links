@@ -24,3 +24,12 @@ Juicy rickroll links
 - [https://discordgift.site/games/redeem/9QgEOvBFjOkAnZ4m](https://discordgift.site/games/redeem/9QgEOvBFjOkAnZ4m) - Discord Games Minecraft (PC ONLY) [redirects to rickroll] {works with discord}
 - [https://discordgift.site/store/en-US/p/discord--discord-nitro](https://discordgift.site/store/en-US/p/discord--discord-nitro) - Epic Games Free Nitro [redirects to rickroll] {works with discord}
 - [https://dis.cord.gifts/c/ShN2lWR5JLdQfk6y](https://dis.cord.gifts/c/ShN2lWR5JLdQfk6y) - New Discord Nitro Classic [redirects to rickroll] {works with discord}
+
+## Discord rickroll
+- [https://www.youtube.com/watch?v=tzYPr9w22VU](https://www.youtube.com/watch?v=tzYPr9w22VU) - spongebob song but rickroll
+- [https://www.youtube.com/watch?v=xfr64zoBTAQ](https://www.youtube.com/watch?v=xfr64zoBTAQ) - Breaking news but rickroll
+- [https://www.youtube.com/watch?v=oJl25bABYac](https://www.youtube.com/watch?v=oJl25bABYac) - Tesla's free energy secrets revealed! but rickroll
+- [https://www.youtube.com/watch?v=E458nb_pPmk](https://www.youtube.com/watch?v=E458nb_pPmk) - It’s Crazy How Sound Works but rickroll
+- [https://www.youtube.com/watch?v=LjQZaD9EEJ0](https://www.youtube.com/watch?v=LjQZaD9EEJ0) - Shrek 5 TRAILER but rickroll
+- [https://www.youtube.com/watch?v=s0akG-V_Y30](https://www.youtube.com/watch?v=s0akG-V_Y30) - The truth the government doesn't want you to know about shelter in place but rickroll
+- [https://www.youtube.com/watch?v=ikFZLI4HLpQ](https://www.youtube.com/watch?v=ikFZLI4HLpQ) - Building Demolition *gone wrong* but rickroll
