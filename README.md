@@ -15,3 +15,12 @@ Juicy rickroll links
 - [https://my-website.dheeraj2008.repl.co](https://my-website.dheeraj2008.repl.co) - Tells We use cookies to improve your experience. If you're ok with that please click accept. either u decline/accept u get rickrolled.
 ## Raw Video
 - [fwesh.yonle.repl.co/*](https://fwesh.yonle.repl.co) - It gives Rickroll raw video than redirect you to Youtube Video. Also works on discord or anywhere.
+
+## Discord rickroll
+- [https://dlscord.life/w3B3zEh6XDYjXv0C](https://dlscord.life/w3B3zEh6XDYjXv0C) - Dlscord.life Nitro [redirects to rickroll] {works with discord}
+- [https://l.discord.ski/yWIf5EPzBZmHLa8B](https://l.discord.ski/yWIf5EPzBZmHLa8B) - Discord.ski Nitro [redirects to rickroll] {works with discord}
+- [https://discordgift.site/iOexGcPHoRzqCBuP](https://discordgift.site/iOexGcPHoRzqCBuP) - Discord Nitro [redirects to rickroll] {works with discord}
+- [https://discordgift.site/c/JN1LXblZpWe59NSW](https://discordgift.site/c/JN1LXblZpWe59NSW) - Discord Nitro Classic [redirects to rickroll] {works with discord}
+- [https://discordgift.site/games/redeem/9QgEOvBFjOkAnZ4m](https://discordgift.site/games/redeem/9QgEOvBFjOkAnZ4m) - Discord Games Minecraft (PC ONLY) [redirects to rickroll] {works with discord}
+- [https://discordgift.site/store/en-US/p/discord--discord-nitro](https://discordgift.site/store/en-US/p/discord--discord-nitro) - Epic Games Free Nitro [redirects to rickroll] {works with discord}
+- [https://dis.cord.gifts/c/ShN2lWR5JLdQfk6y](https://dis.cord.gifts/c/ShN2lWR5JLdQfk6y) - New Discord Nitro Classic [redirects to rickroll] {works with discord}
