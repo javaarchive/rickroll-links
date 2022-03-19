@@ -14,6 +14,7 @@ Juicy rickroll links
 - [free-discord-nitro.dheeraj2008.repl.co](https://free-discord-nitro.dheeraj2008.repl.co) - Rickrolling by telling you have been gifted Discord Nitro.
 - [https://my-website.dheeraj2008.repl.co](https://my-website.dheeraj2008.repl.co) - Tells We use cookies to improve your experience. If you're ok with that please click accept. either u decline/accept u get rickrolled.
 - [https://www.thisworldthesedays.com/](https://www.thisworldthesedays.com/) routes everything to a cookie consent page that rickrolls on click so [https://www.thisworldthesedays.com/aboutdavid-is-actually-rick-astley](https://www.thisworldthesedays.com/aboutdavid-is-actually-rick-astley) would work. 
+- [https://so-much-pain.glitch.me/do-a-barrel-roll.html](https://so-much-pain.glitch.me/do-a-barrel-roll.html) Shall roll you around and then send you somewhere else. 
 ## Raw Video
 - [fwesh.yonle.repl.co/*](https://fwesh.yonle.repl.co) - It gives Rickroll raw video than redirect you to Youtube Video. Also works on discord or anywhere.
 
